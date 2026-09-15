@@ -21,6 +21,3 @@ def main():
     minutos = duracao_minutos % 60
 
     print(f"Duração do jogo: {horas} hora(s) e {minutos} minuto(s).")
-
-if __name__ == "__main__":
-    main()
