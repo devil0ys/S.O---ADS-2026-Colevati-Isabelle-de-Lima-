@@ -19,5 +19,4 @@ def main():
     else:
         print(f"Ordem crescente: {d}, {a}, {b}, {c}")
 
-if __name__ == "__main__":
-    main()
+
