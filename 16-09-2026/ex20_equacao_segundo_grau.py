@@ -24,6 +24,3 @@ def main():
             x1 = (-b + math.sqrt(delta)) / (2 * a)
             x2 = (-b - math.sqrt(delta)) / (2 * a)
             print(f"Possui duas raízes reais: x1 = {x1:.2f} e x2 = {x2:.2f}")
-
-if __name__ == "__main__":
-    main()
