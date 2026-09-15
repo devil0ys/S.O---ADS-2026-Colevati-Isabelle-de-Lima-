@@ -13,6 +13,3 @@ def main():
         print(f"O maior número é: {num2}")
     else:
         print("Os dois números são iguais.")
-
-if __name__ == "__main__":
-    main()
