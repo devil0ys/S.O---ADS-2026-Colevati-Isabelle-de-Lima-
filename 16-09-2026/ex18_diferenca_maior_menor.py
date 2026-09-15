@@ -13,6 +13,3 @@ def main():
         diferenca = b - a
 
     print(f"A diferença do maior pelo menor é: {diferenca}")
-
-if __name__ == "__main__":
-    main()
