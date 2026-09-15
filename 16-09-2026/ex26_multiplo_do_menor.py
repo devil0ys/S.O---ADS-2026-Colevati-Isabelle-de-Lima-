@@ -15,5 +15,4 @@ def main():
     else:
         print(f"{maior} NÃO é múltiplo de {menor}.")
 
-if __name__ == "__main__":
-    main()
+
