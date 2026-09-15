@@ -11,5 +11,3 @@ def main():
     else:
         print(f"O número {num} NÃO é divisível simultaneamente por 2 e por 3.")
 
-if __name__ == "__main__":
-    main()
