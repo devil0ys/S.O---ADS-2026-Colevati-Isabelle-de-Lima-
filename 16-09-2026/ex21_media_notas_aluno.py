@@ -23,5 +23,3 @@ def main():
     else:
         print("RETIDO")
 
-if __name__ == "__main__":
-    main()
