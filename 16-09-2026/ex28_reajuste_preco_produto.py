@@ -18,5 +18,3 @@ def main():
 
     print(f"O novo preço é: R$ {preco_novo:.2f}")
 
-if __name__ == "__main__":
-    main()
