@@ -12,5 +12,3 @@ def main():
 
     print(f"O fatorial de {n} é: {fatorial}")
 
-if __name__ == "__main__":
-    main()
