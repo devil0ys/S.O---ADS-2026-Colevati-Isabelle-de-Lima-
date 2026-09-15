@@ -17,5 +17,3 @@ def main():
     else:
         print("Tipo de investimento inválido.")
 
-if __name__ == "__main__":
-    main()
