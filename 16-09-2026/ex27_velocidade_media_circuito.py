@@ -15,5 +15,3 @@ def main():
     velocidade_media = distancia_total_km / tempo_horas
     print(f"Velocidade média: {velocidade_media:.2f} km/h")
 
-if __name__ == "__main__":
-    main()
