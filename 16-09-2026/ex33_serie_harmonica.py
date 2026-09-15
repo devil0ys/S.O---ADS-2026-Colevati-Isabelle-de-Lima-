@@ -11,6 +11,3 @@ def main():
         soma += 1 / i
 
     print(f"Resultado da série: {soma:.4f}")
-
-if __name__ == "__main__":
-    main()
