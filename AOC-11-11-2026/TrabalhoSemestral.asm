@@ -29,7 +29,7 @@ main:
     
     j inicio 
   
-    #O 32bts não suporta, é necessário mudar para o 'double' 64 bits usando o mtc1 e cvt.d.w
+    #O 32bts não suporta, é necessário mudar para o 'double' 64 bits usando o mtc1 e cvt.d.w. Sem esses códigos, gera overflow e o código em assembly não funciona
     
     
     continua:
